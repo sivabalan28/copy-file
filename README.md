@@ -19,10 +19,6 @@ The content in the original file will be copied in the new file.
 End the program.
 ## PROGRAM:
 ```python
-with open("File1.txt","r") as fp:
-    x = fp.read()
-with open("File2.txt","w") as fp1:
-    fp1.write(x)
 ```
 
 ### OUTPUT:
