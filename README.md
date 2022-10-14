@@ -26,7 +26,6 @@ with open("File2.txt","w") as fp1:
 ```
 
 ### OUTPUT:
-![output](output6.png)
 
 
 
