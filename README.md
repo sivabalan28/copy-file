@@ -18,11 +18,16 @@ The content in the original file will be copied in the new file.
 ### Step 6: 
 End the program.
 ## PROGRAM:
+#program developed by:Sivabalan.s
+#registernumber:22004401
 ```python
+```with open("git.txt","r") as f1:
+    with open("MyFile.txt","a") as f2:
+        for line in f1:
+            f2.write(line)
 ```
-
-### OUTPUT:
-
+## output:
+![output](/output.png)
 
 
 ## RESULT:
